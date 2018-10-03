@@ -1,4 +1,4 @@
-# Machine Learning Engineer Nanodegree
+# Machine Learning Nanodegree
 
 ## Capstone Project - Marcelo Hanones
 
