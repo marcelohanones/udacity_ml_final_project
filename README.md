@@ -19,9 +19,3 @@ Este projeto requer as seguintes bibliotecas:
 * Yellowbrick
 * NLTK
 
-
-### Install
-No arquivo zipado seguem os notebooks e toda a estrutura de pastas.
-Na pasta submit_capstone/work/pkl estão os arquivos referentes ao modelo final escolhido.
-# udacity_ml_final_project
-# udacity_ml_final_project
